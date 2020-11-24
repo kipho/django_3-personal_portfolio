@@ -25,7 +25,7 @@ SECRET_KEY = '^^39tsh-2b$=zv5idbc*od=8s4wt9)f9#*j7)&p^pfc&mixyw='
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['kreso.pythonanywhere.com']
+ALLOWED_HOSTS = ['www.kresoperaic.org']
 
 
 # Application definition
